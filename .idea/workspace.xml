@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="calculate average">
-      <change afterPath="$PROJECT_DIR$/python journey/p11.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="a&gt;=b then true">
+      <change beforePath="$PROJECT_DIR$/python journey/p1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python journey/p-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python journey/p2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python journey/p-02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python journey/p3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python journey/p-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python journey/p4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python journey/p-04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python journey/p5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python journey/p-05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.p1.executor": "Run",
+    "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
     "Python.p3.executor": "Run",
     "Python.p4.executor": "Run",
@@ -141,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757682906359</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="a&gt;=b then true">
+      <option name="closed" value="true" />
+      <created>1757683123116</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757683123116</updated>
+    </task>
+    <task id="LOCAL-00010" summary="a&gt;=b then true">
+      <option name="closed" value="true" />
+      <created>1757683181707</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757683181707</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +181,7 @@
     <MESSAGE value="simple calculator" />
     <MESSAGE value="simple area calculator" />
     <MESSAGE value="calculate average" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculate average" />
+    <MESSAGE value="a&gt;=b then true" />
+    <option name="LAST_COMMIT_MESSAGE" value="a&gt;=b then true" />
   </component>
 </project>
