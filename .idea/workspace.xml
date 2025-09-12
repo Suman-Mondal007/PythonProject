@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple calculator">
-      <change afterPath="$PROJECT_DIR$/python journey/p4.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="calculate average">
+      <change afterPath="$PROJECT_DIR$/python journey/p11.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.p2.executor": "Run",
     "Python.p3.executor": "Run",
     "Python.p4.executor": "Run",
+    "Python.p5.executor": "Run",
     "Python.python journey.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -124,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757682048878</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="simple area calculator">
+      <option name="closed" value="true" />
+      <created>1757682652225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1757682652225</updated>
+    </task>
+    <task id="LOCAL-00008" summary="calculate average">
+      <option name="closed" value="true" />
+      <created>1757682906359</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757682906359</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +158,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="simple calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple calculator" />
+    <MESSAGE value="simple area calculator" />
+    <MESSAGE value="calculate average" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate average" />
   </component>
 </project>
