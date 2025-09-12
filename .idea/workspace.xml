@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="result using if-else">
-      <change afterPath="$PROJECT_DIR$/python journey/p-10.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="which is greater among 3num">
+      <change afterPath="$PROJECT_DIR$/python journey/p-12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.p-08.executor": "Run",
     "Python.p-09.executor": "Run",
     "Python.p-10.executor": "Run",
+    "Python.p-11.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -202,7 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757692927080</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="even or odd">
+      <option name="closed" value="true" />
+      <created>1757693308955</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757693308955</updated>
+    </task>
+    <task id="LOCAL-00017" summary="which is greater among 3num">
+      <option name="closed" value="true" />
+      <created>1757693589786</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757693589786</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +242,8 @@
     <MESSAGE value="all about strings" />
     <MESSAGE value="vote eligibility using if-else" />
     <MESSAGE value="result using if-else" />
-    <option name="LAST_COMMIT_MESSAGE" value="result using if-else" />
+    <MESSAGE value="even or odd" />
+    <MESSAGE value="which is greater among 3num" />
+    <option name="LAST_COMMIT_MESSAGE" value="which is greater among 3num" />
   </component>
 </project>
