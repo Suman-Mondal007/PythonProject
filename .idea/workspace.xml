@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="while loop print 1 to 100 or reverese">
-      <change afterPath="$PROJECT_DIR$/python journey/p-21.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="squre table using while">
+      <change afterPath="$PROJECT_DIR$/python journey/p-23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,8 @@
     "Python.p-19.executor": "Run",
     "Python.p-20.executor": "Run",
     "Python.p-21.executor": "Run",
+    "Python.p-22.executor": "Run",
+    "Python.p-23.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -325,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757737613266</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="multiplication table using while">
+      <option name="closed" value="true" />
+      <created>1757737945966</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1757737945966</updated>
+    </task>
+    <task id="LOCAL-00031" summary="squre table using while">
+      <option name="closed" value="true" />
+      <created>1757738077230</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1757738077230</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,6 +378,8 @@
     <MESSAGE value="all about dict" />
     <MESSAGE value="all about set" />
     <MESSAGE value="while loop print 1 to 100 or reverese" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop print 1 to 100 or reverese" />
+    <MESSAGE value="multiplication table using while" />
+    <MESSAGE value="squre table using while" />
+    <option name="LAST_COMMIT_MESSAGE" value="squre table using while" />
   </component>
 </project>
