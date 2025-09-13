@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="palindrome or not using list">
-      <change afterPath="$PROJECT_DIR$/python journey/p-17.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="count the occurance or grade a">
+      <change afterPath="$PROJECT_DIR$/python journey/p-18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     "Python.p-15.executor": "Run",
     "Python.p-16.executor": "Run",
     "Python.p-17.executor": "Run",
+    "Python.p-18.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -266,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757732117121</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="count the occurance or grade a">
+      <option name="closed" value="true" />
+      <created>1757732469444</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1757732469444</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +305,7 @@
     <MESSAGE value="all about touples" />
     <MESSAGE value="create a list of movies" />
     <MESSAGE value="palindrome or not using list" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome or not using list" />
+    <MESSAGE value="count the occurance or grade a" />
+    <option name="LAST_COMMIT_MESSAGE" value="count the occurance or grade a" />
   </component>
 </project>
