@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple aggregate function">
-      <change afterPath="$PROJECT_DIR$/numpy journey/p-06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="indexing,slicing,boolean masking">
+      <change afterPath="$PROJECT_DIR$/numpy journey/p-07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update">
-      <option name="closed" value="true" />
-      <created>1757676416106</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1757676416106</updated>
     </task>
     <task id="LOCAL-00003" summary="update">
       <option name="closed" value="true" />
@@ -506,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757781083012</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="indexing,slicing,boolean masking">
+      <option name="closed" value="true" />
+      <created>1757782237163</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1757782237163</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="palindrome or not using list" />
     <MESSAGE value="count the occurance or grade a" />
     <MESSAGE value="all about dict" />
     <MESSAGE value="all about set" />
@@ -546,6 +544,7 @@
     <MESSAGE value="type convertion" />
     <MESSAGE value="simple arithmetic operation" />
     <MESSAGE value="simple aggregate function" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple aggregate function" />
+    <MESSAGE value="indexing,slicing,boolean masking" />
+    <option name="LAST_COMMIT_MESSAGE" value="indexing,slicing,boolean masking" />
   </component>
 </project>
