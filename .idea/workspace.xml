@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="sum of n number using for">
-      <change afterPath="$PROJECT_DIR$/python journey/p-28.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="factorial of n number">
+      <change afterPath="$PROJECT_DIR$/python journey/p-29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Python.p-26.executor": "Run",
     "Python.p-27.executor": "Run",
     "Python.p-28.executor": "Run",
+    "Python.p-29.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -388,7 +390,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757743103465</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="factorial of n number">
+      <option name="closed" value="true" />
+      <created>1757743559158</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1757743559158</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -403,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="simple calculator" />
     <MESSAGE value="simple area calculator" />
     <MESSAGE value="calculate average" />
     <MESSAGE value="a&gt;=b then true" />
@@ -428,6 +437,7 @@
     <MESSAGE value="simple print" />
     <MESSAGE value="multiplication table using for" />
     <MESSAGE value="sum of n number using for" />
-    <option name="LAST_COMMIT_MESSAGE" value="sum of n number using for" />
+    <MESSAGE value="factorial of n number" />
+    <option name="LAST_COMMIT_MESSAGE" value="factorial of n number" />
   </component>
 </project>
