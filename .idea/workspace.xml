@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="all about file i/o">
-      <change afterPath="$PROJECT_DIR$/python journey/p-35.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="file create">
+      <change afterPath="$PROJECT_DIR$/pycharm journey/p-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python journey/p-36.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -451,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757749554089</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="file create">
+      <option name="closed" value="true" />
+      <created>1757749957553</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1757749957553</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -466,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="even or odd" />
     <MESSAGE value="which is greater among 3num" />
     <MESSAGE value="num is mul of 7 or not" />
     <MESSAGE value="all about list" />
@@ -491,6 +500,7 @@
     <MESSAGE value="factorial using recursion" />
     <MESSAGE value="sum of n number using recursion" />
     <MESSAGE value="all about file i/o" />
-    <option name="LAST_COMMIT_MESSAGE" value="all about file i/o" />
+    <MESSAGE value="file create" />
+    <option name="LAST_COMMIT_MESSAGE" value="file create" />
   </component>
 </project>
