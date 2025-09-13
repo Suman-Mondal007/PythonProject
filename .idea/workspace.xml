@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="count the occurance or grade a">
-      <change afterPath="$PROJECT_DIR$/python journey/p-18.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="all about dict">
+      <change afterPath="$PROJECT_DIR$/p-19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Suman-Mondal007"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Suman-Mondal007&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Suman-Mondal007/PythonProject.git",
-    "accountId": "f404c5cf-7225-4e9f-9652-06d03f6ce003"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Suman-Mondal007/PythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;f404c5cf-7225-4e9f-9652-06d03f6ce003&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -58,6 +58,7 @@
     "Python.p-16.executor": "Run",
     "Python.p-17.executor": "Run",
     "Python.p-18.executor": "Run",
+    "Python.p-19.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -275,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757732469444</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="all about dict">
+      <option name="closed" value="true" />
+      <created>1757735118919</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757735118919</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,6 +315,7 @@
     <MESSAGE value="create a list of movies" />
     <MESSAGE value="palindrome or not using list" />
     <MESSAGE value="count the occurance or grade a" />
-    <option name="LAST_COMMIT_MESSAGE" value="count the occurance or grade a" />
+    <MESSAGE value="all about dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="all about dict" />
   </component>
 </project>
