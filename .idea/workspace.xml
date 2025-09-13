@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="all about touples">
-      <change afterPath="$PROJECT_DIR$/python journey/p-15.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="create a list of movies">
+      <change afterPath="$PROJECT_DIR$/python journey/p-16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
     "Python.p-13.executor": "Run",
     "Python.p-14.executor": "Run",
     "Python.p-15.executor": "Run",
+    "Python.p-16.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -247,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757731132707</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="create a list of movies">
+      <option name="closed" value="true" />
+      <created>1757731484219</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1757731484219</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +284,7 @@
     <MESSAGE value="num is mul of 7 or not" />
     <MESSAGE value="all about list" />
     <MESSAGE value="all about touples" />
-    <option name="LAST_COMMIT_MESSAGE" value="all about touples" />
+    <MESSAGE value="create a list of movies" />
+    <option name="LAST_COMMIT_MESSAGE" value="create a list of movies" />
   </component>
 </project>
