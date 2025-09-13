@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple numpy">
-      <change afterPath="$PROJECT_DIR$/numpy journey/p-02.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple numpy part-2">
+      <change afterPath="$PROJECT_DIR$/numpy journey/p-03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -478,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757773414095</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="simple numpy part-2">
+      <option name="closed" value="true" />
+      <created>1757774081027</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1757774081027</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +501,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="num is mul of 7 or not" />
     <MESSAGE value="all about list" />
     <MESSAGE value="all about touples" />
     <MESSAGE value="create a list of movies" />
@@ -518,6 +525,7 @@
     <MESSAGE value="all about file i/o" />
     <MESSAGE value="file create" />
     <MESSAGE value="simple numpy" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple numpy" />
+    <MESSAGE value="simple numpy part-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple numpy part-2" />
   </component>
 </project>
