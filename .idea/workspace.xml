@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="which is greater among 3num">
-      <change afterPath="$PROJECT_DIR$/python journey/p-12.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="num is mul of 7 or not">
+      <change afterPath="$PROJECT_DIR$/python journey/p-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,8 @@
     "Python.p-09.executor": "Run",
     "Python.p-10.executor": "Run",
     "Python.p-11.executor": "Run",
+    "Python.p-12.executor": "Run",
+    "Python.p-13.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -219,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757693589786</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="num is mul of 7 or not">
+      <option name="closed" value="true" />
+      <created>1757693723319</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757693723319</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +255,7 @@
     <MESSAGE value="result using if-else" />
     <MESSAGE value="even or odd" />
     <MESSAGE value="which is greater among 3num" />
-    <option name="LAST_COMMIT_MESSAGE" value="which is greater among 3num" />
+    <MESSAGE value="num is mul of 7 or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="num is mul of 7 or not" />
   </component>
 </project>
