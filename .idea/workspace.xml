@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="indexing,slicing,boolean masking">
-      <change afterPath="$PROJECT_DIR$/numpy journey/p-07.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="reshaping,ravel,flatten">
+      <change afterPath="$PROJECT_DIR$/numpy journey/p-08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update">
-      <option name="closed" value="true" />
-      <created>1757676476682</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1757676476682</updated>
     </task>
     <task id="LOCAL-00004" summary="update">
       <option name="closed" value="true" />
@@ -505,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757782237163</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="reshaping,ravel,flatten">
+      <option name="closed" value="true" />
+      <created>1757782754135</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1757782754135</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -520,7 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="count the occurance or grade a" />
     <MESSAGE value="all about dict" />
     <MESSAGE value="all about set" />
     <MESSAGE value="while loop print 1 to 100 or reverese" />
@@ -545,6 +545,7 @@
     <MESSAGE value="simple arithmetic operation" />
     <MESSAGE value="simple aggregate function" />
     <MESSAGE value="indexing,slicing,boolean masking" />
-    <option name="LAST_COMMIT_MESSAGE" value="indexing,slicing,boolean masking" />
+    <MESSAGE value="reshaping,ravel,flatten" />
+    <option name="LAST_COMMIT_MESSAGE" value="reshaping,ravel,flatten" />
   </component>
 </project>
