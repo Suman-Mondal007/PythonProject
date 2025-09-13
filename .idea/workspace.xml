@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="multiplication table using for">
-      <change afterPath="$PROJECT_DIR$/python journey/p-27.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="sum of n number using for">
+      <change afterPath="$PROJECT_DIR$/python journey/p-28.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +66,7 @@
     "Python.p-25.executor": "Run",
     "Python.p-26.executor": "Run",
     "Python.p-27.executor": "Run",
+    "Python.p-28.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -379,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757742579971</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="sum of n number using for">
+      <option name="closed" value="true" />
+      <created>1757743103465</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1757743103465</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,7 +403,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="simple calculator" />
     <MESSAGE value="simple area calculator" />
     <MESSAGE value="calculate average" />
@@ -419,6 +427,7 @@
     <MESSAGE value="all about for loop" />
     <MESSAGE value="simple print" />
     <MESSAGE value="multiplication table using for" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiplication table using for" />
+    <MESSAGE value="sum of n number using for" />
+    <option name="LAST_COMMIT_MESSAGE" value="sum of n number using for" />
   </component>
 </project>
