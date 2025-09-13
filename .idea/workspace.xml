@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="reshaping,ravel,flatten">
-      <change afterPath="$PROJECT_DIR$/numpy journey/p-08.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="insert,append,delete">
+      <change afterPath="$PROJECT_DIR$/numpy journey/p-09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,14 +113,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update">
-      <option name="closed" value="true" />
-      <created>1757676501325</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1757676501325</updated>
     </task>
     <task id="LOCAL-00005" summary="update">
       <option name="closed" value="true" />
@@ -506,7 +498,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757782754135</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="insert,append,delete">
+      <option name="closed" value="true" />
+      <created>1757786442321</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1757786442322</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -521,7 +521,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="all about dict" />
     <MESSAGE value="all about set" />
     <MESSAGE value="while loop print 1 to 100 or reverese" />
     <MESSAGE value="multiplication table using while" />
@@ -546,6 +545,7 @@
     <MESSAGE value="simple aggregate function" />
     <MESSAGE value="indexing,slicing,boolean masking" />
     <MESSAGE value="reshaping,ravel,flatten" />
-    <option name="LAST_COMMIT_MESSAGE" value="reshaping,ravel,flatten" />
+    <MESSAGE value="insert,append,delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert,append,delete" />
   </component>
 </project>
