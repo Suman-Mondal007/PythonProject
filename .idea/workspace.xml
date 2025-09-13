@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple numpy part-2">
-      <change afterPath="$PROJECT_DIR$/numpy journey/p-03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="type convertion">
+      <change afterPath="$PROJECT_DIR$/numpy journey/p-04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.p-01.executor": "Run",
     "Python.p-02.executor": "Run",
+    "Python.p-03.executor": "Run",
     "Python.p-07.executor": "Run",
     "Python.p-08.executor": "Run",
     "Python.p-09.executor": "Run",
@@ -486,7 +486,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757774081027</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="type convertion">
+      <option name="closed" value="true" />
+      <created>1757780247226</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1757780247226</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -501,7 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="all about list" />
     <MESSAGE value="all about touples" />
     <MESSAGE value="create a list of movies" />
     <MESSAGE value="palindrome or not using list" />
@@ -526,6 +533,7 @@
     <MESSAGE value="file create" />
     <MESSAGE value="simple numpy" />
     <MESSAGE value="simple numpy part-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple numpy part-2" />
+    <MESSAGE value="type convertion" />
+    <option name="LAST_COMMIT_MESSAGE" value="type convertion" />
   </component>
 </project>
