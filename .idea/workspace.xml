@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple print">
-      <change afterPath="$PROJECT_DIR$/python journey/p-26.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="multiplication table using for">
+      <change afterPath="$PROJECT_DIR$/python journey/p-27.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,8 @@
     "Python.p-23.executor": "Run",
     "Python.p-24.executor": "Run",
     "Python.p-25.executor": "Run",
+    "Python.p-26.executor": "Run",
+    "Python.p-27.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -369,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757742348011</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="multiplication table using for">
+      <option name="closed" value="true" />
+      <created>1757742579971</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1757742579971</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,6 +418,7 @@
     <MESSAGE value="element is present or not" />
     <MESSAGE value="all about for loop" />
     <MESSAGE value="simple print" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple print" />
+    <MESSAGE value="multiplication table using for" />
+    <option name="LAST_COMMIT_MESSAGE" value="multiplication table using for" />
   </component>
 </project>
