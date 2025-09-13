@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="all about set">
-      <change afterPath="$PROJECT_DIR$/python journey/p-20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="while loop print 1 to 100 or reverese">
+      <change afterPath="$PROJECT_DIR$/python journey/p-21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Python.p-18.executor": "Run",
     "Python.p-19.executor": "Run",
     "Python.p-20.executor": "Run",
+    "Python.p-21.executor": "Run",
     "Python.p1.executor": "Run",
     "Python.p11.executor": "Run",
     "Python.p2.executor": "Run",
@@ -317,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757736226176</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="while loop print 1 to 100 or reverese">
+      <option name="closed" value="true" />
+      <created>1757737613266</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1757737613266</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -350,6 +358,7 @@
     <MESSAGE value="count the occurance or grade a" />
     <MESSAGE value="all about dict" />
     <MESSAGE value="all about set" />
-    <option name="LAST_COMMIT_MESSAGE" value="all about set" />
+    <MESSAGE value="while loop print 1 to 100 or reverese" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loop print 1 to 100 or reverese" />
   </component>
 </project>
