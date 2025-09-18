@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="broadcasting,vectorization">
-      <change afterPath="$PROJECT_DIR$/numpy journey/p-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas journey/p-01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas journey/suman.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple pandas">
+      <change afterPath="$PROJECT_DIR$/pandas journey/p-02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00006" summary="simple calculator">
-      <option name="closed" value="true" />
-      <created>1757682048878</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1757682048878</updated>
     </task>
     <task id="LOCAL-00007" summary="simple area calculator">
       <option name="closed" value="true" />
@@ -508,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757787764301</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="simple pandas">
+      <option name="closed" value="true" />
+      <created>1758201901327</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1758201901327</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="while loop print 1 to 100 or reverese" />
     <MESSAGE value="multiplication table using while" />
     <MESSAGE value="squre table using while" />
     <MESSAGE value="element is present or not" />
@@ -548,6 +544,7 @@
     <MESSAGE value="reshaping,ravel,flatten" />
     <MESSAGE value="insert,append,delete" />
     <MESSAGE value="broadcasting,vectorization" />
-    <option name="LAST_COMMIT_MESSAGE" value="broadcasting,vectorization" />
+    <MESSAGE value="simple pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple pandas" />
   </component>
 </project>
