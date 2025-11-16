@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple book sale pie chart">
-      <change afterPath="$PROJECT_DIR$/matplotlib/p-05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple book sale histogram">
+      <change afterPath="$PROJECT_DIR$/matplotlib/p-06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00013" summary="all about strings">
-      <option name="closed" value="true" />
-      <created>1757691635564</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1757691635564</updated>
     </task>
     <task id="LOCAL-00014" summary="vote eligibility using if-else">
       <option name="closed" value="true" />
@@ -508,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763281289067</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="simple book sale histogram">
+      <option name="closed" value="true" />
+      <created>1763281906990</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1763281906991</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sum of n number using for" />
     <MESSAGE value="factorial of n number" />
     <MESSAGE value="average using functiion" />
     <MESSAGE value="factorial using function" />
@@ -548,6 +546,7 @@
     <MESSAGE value="simple book sale plot" />
     <MESSAGE value="simple book sale bar" />
     <MESSAGE value="simple book sale pie chart" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple book sale pie chart" />
+    <MESSAGE value="simple book sale histogram" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple book sale histogram" />
   </component>
 </project>
