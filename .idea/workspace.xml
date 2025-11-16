@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple pandas">
-      <change afterPath="$PROJECT_DIR$/pandas journey/p-02.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="data save on exel csv">
+      <change afterPath="$PROJECT_DIR$/p-04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p-37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas journey/p-03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +83,7 @@
     &quot;Python.p-33.executor&quot;: &quot;Run&quot;,
     &quot;Python.p-34.executor&quot;: &quot;Run&quot;,
     &quot;Python.p-35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.p-37.executor&quot;: &quot;Run&quot;,
     &quot;Python.p1.executor&quot;: &quot;Run&quot;,
     &quot;Python.p11.executor&quot;: &quot;Run&quot;,
     &quot;Python.p2.executor&quot;: &quot;Run&quot;,
@@ -112,14 +116,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00007" summary="simple area calculator">
-      <option name="closed" value="true" />
-      <created>1757682652225</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1757682652225</updated>
     </task>
     <task id="LOCAL-00008" summary="calculate average">
       <option name="closed" value="true" />
@@ -505,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758201901327</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="data save on exel csv">
+      <option name="closed" value="true" />
+      <created>1758202250107</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1758202250107</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -520,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="multiplication table using while" />
     <MESSAGE value="squre table using while" />
     <MESSAGE value="element is present or not" />
     <MESSAGE value="all about for loop" />
@@ -545,6 +548,7 @@
     <MESSAGE value="insert,append,delete" />
     <MESSAGE value="broadcasting,vectorization" />
     <MESSAGE value="simple pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple pandas" />
+    <MESSAGE value="data save on exel csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="data save on exel csv" />
   </component>
 </project>
