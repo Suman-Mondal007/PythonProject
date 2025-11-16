@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="data save on exel csv">
-      <change afterPath="$PROJECT_DIR$/p-04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p-37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas journey/p-03.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment=",,">
+      <change afterPath="$PROJECT_DIR$/matplotlib/p-01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpy journey/p-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy journey/p-10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,60 +44,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.p-01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-23.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-24.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-25.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-26.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-28.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-29.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-31.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-32.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-33.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-34.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-35.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p-37.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python journey.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.p-01.executor": "Run",
+    "Python.p-02.executor": "Run",
+    "Python.p-03.executor": "Run",
+    "Python.p-04.executor": "Run",
+    "Python.p-05.executor": "Run",
+    "Python.p-06.executor": "Run",
+    "Python.p-07.executor": "Run",
+    "Python.p-08.executor": "Run",
+    "Python.p-09.executor": "Run",
+    "Python.p-10.executor": "Run",
+    "Python.p-11.executor": "Run",
+    "Python.p-12.executor": "Run",
+    "Python.p-13.executor": "Run",
+    "Python.p-14.executor": "Run",
+    "Python.p-15.executor": "Run",
+    "Python.p-16.executor": "Run",
+    "Python.p-17.executor": "Run",
+    "Python.p-18.executor": "Run",
+    "Python.p-19.executor": "Run",
+    "Python.p-20.executor": "Run",
+    "Python.p-21.executor": "Run",
+    "Python.p-22.executor": "Run",
+    "Python.p-23.executor": "Run",
+    "Python.p-24.executor": "Run",
+    "Python.p-25.executor": "Run",
+    "Python.p-26.executor": "Run",
+    "Python.p-27.executor": "Run",
+    "Python.p-28.executor": "Run",
+    "Python.p-29.executor": "Run",
+    "Python.p-30.executor": "Run",
+    "Python.p-31.executor": "Run",
+    "Python.p-32.executor": "Run",
+    "Python.p-33.executor": "Run",
+    "Python.p-34.executor": "Run",
+    "Python.p-35.executor": "Run",
+    "Python.p-37.executor": "Run",
+    "Python.p1.executor": "Run",
+    "Python.p11.executor": "Run",
+    "Python.p2.executor": "Run",
+    "Python.p3.executor": "Run",
+    "Python.p4.executor": "Run",
+    "Python.p5.executor": "Run",
+    "Python.python journey.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sm713\PycharmProjects\PythonProject\numpy journey" />
       <recent name="C:\Users\sm713\PycharmProjects\PythonProject\python journey" />
     </key>
   </component>
@@ -116,14 +116,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00008" summary="calculate average">
-      <option name="closed" value="true" />
-      <created>1757682906359</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1757682906359</updated>
     </task>
     <task id="LOCAL-00009" summary="a&gt;=b then true">
       <option name="closed" value="true" />
@@ -509,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758202250107</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary=",,">
+      <option name="closed" value="true" />
+      <created>1763277295874</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1763277295874</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +524,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="squre table using while" />
     <MESSAGE value="element is present or not" />
     <MESSAGE value="all about for loop" />
     <MESSAGE value="simple print" />
@@ -549,6 +548,7 @@
     <MESSAGE value="broadcasting,vectorization" />
     <MESSAGE value="simple pandas" />
     <MESSAGE value="data save on exel csv" />
-    <option name="LAST_COMMIT_MESSAGE" value="data save on exel csv" />
+    <MESSAGE value=",," />
+    <option name="LAST_COMMIT_MESSAGE" value=",," />
   </component>
 </project>
