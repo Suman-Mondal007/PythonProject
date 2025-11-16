@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple book sale plot">
-      <change afterPath="$PROJECT_DIR$/matplotlib/p-03.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple book sale bar">
+      <change afterPath="$PROJECT_DIR$/matplotlib/p-04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,14 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00011" summary="a&gt;=b then true">
-      <option name="closed" value="true" />
-      <created>1757683332456</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1757683332456</updated>
     </task>
     <task id="LOCAL-00012" summary="a&gt;=b then true">
       <option name="closed" value="true" />
@@ -507,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763279228151</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="simple book sale bar">
+      <option name="closed" value="true" />
+      <created>1763280633883</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1763280633883</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="simple print" />
     <MESSAGE value="multiplication table using for" />
     <MESSAGE value="sum of n number using for" />
     <MESSAGE value="factorial of n number" />
@@ -547,6 +546,7 @@
     <MESSAGE value=",," />
     <MESSAGE value="simple" />
     <MESSAGE value="simple book sale plot" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple book sale plot" />
+    <MESSAGE value="simple book sale bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple book sale bar" />
   </component>
 </project>
