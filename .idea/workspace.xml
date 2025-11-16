@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple">
-      <change afterPath="$PROJECT_DIR$/matplotlib/p-02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple book sale plot">
+      <change afterPath="$PROJECT_DIR$/matplotlib/p-03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,14 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00010" summary="a&gt;=b then true">
-      <option name="closed" value="true" />
-      <created>1757683181707</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1757683181707</updated>
     </task>
     <task id="LOCAL-00011" summary="a&gt;=b then true">
       <option name="closed" value="true" />
@@ -508,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763278447531</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="simple book sale plot">
+      <option name="closed" value="true" />
+      <created>1763279228151</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1763279228151</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -523,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="all about for loop" />
     <MESSAGE value="simple print" />
     <MESSAGE value="multiplication table using for" />
     <MESSAGE value="sum of n number using for" />
@@ -548,6 +546,7 @@
     <MESSAGE value="data save on exel csv" />
     <MESSAGE value=",," />
     <MESSAGE value="simple" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple" />
+    <MESSAGE value="simple book sale plot" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple book sale plot" />
   </component>
 </project>
