@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment=",,">
-      <change afterPath="$PROJECT_DIR$/matplotlib/p-01.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="simple">
+      <change afterPath="$PROJECT_DIR$/matplotlib/p-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy journey/p-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpy journey/p-10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,14 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00009" summary="a&gt;=b then true">
-      <option name="closed" value="true" />
-      <created>1757683123116</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1757683123116</updated>
     </task>
     <task id="LOCAL-00010" summary="a&gt;=b then true">
       <option name="closed" value="true" />
@@ -509,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763277295874</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="simple">
+      <option name="closed" value="true" />
+      <created>1763278447531</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1763278447531</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="element is present or not" />
     <MESSAGE value="all about for loop" />
     <MESSAGE value="simple print" />
     <MESSAGE value="multiplication table using for" />
@@ -549,6 +547,7 @@
     <MESSAGE value="simple pandas" />
     <MESSAGE value="data save on exel csv" />
     <MESSAGE value=",," />
-    <option name="LAST_COMMIT_MESSAGE" value=",," />
+    <MESSAGE value="simple" />
+    <option name="LAST_COMMIT_MESSAGE" value="simple" />
   </component>
 </project>
