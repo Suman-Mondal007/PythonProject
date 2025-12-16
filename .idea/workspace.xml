@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="fact">
-      <change afterPath="$PROJECT_DIR$/python journey/p-39.py" afterDir="false" />
+    <list default="true" id="50b64e4f-4312-4a93-ad0f-fdd8cec59d64" name="Changes" comment="suggeston">
+      <change afterPath="$PROJECT_DIR$/numpy journey/p-14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,14 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1754715136809</updated>
-    </task>
-    <task id="LOCAL-00017" summary="which is greater among 3num">
-      <option name="closed" value="true" />
-      <created>1757693589786</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1757693589786</updated>
     </task>
     <task id="LOCAL-00018" summary="num is mul of 7 or not">
       <option name="closed" value="true" />
@@ -507,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765851740952</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="suggeston">
+      <option name="closed" value="true" />
+      <created>1765852120627</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1765852120627</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="factorial using function" />
     <MESSAGE value="usd to inr converter using function" />
     <MESSAGE value="factorial using recursion" />
     <MESSAGE value="sum of n number using recursion" />
@@ -547,6 +547,7 @@
     <MESSAGE value="simple book sale histogram" />
     <MESSAGE value="scatter plot" />
     <MESSAGE value="fact" />
-    <option name="LAST_COMMIT_MESSAGE" value="fact" />
+    <MESSAGE value="suggeston" />
+    <option name="LAST_COMMIT_MESSAGE" value="suggeston" />
   </component>
 </project>
